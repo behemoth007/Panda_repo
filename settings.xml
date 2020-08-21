@@ -9,8 +9,8 @@ https://maven.apache.org/xsd/settings-1.0.0.xsd">
     <servers>
         <server>
             <id>ftp-repository</id>
-            <username>${env.FTP_USERNAME}</username>
-            <password>${env.FTP_PASSWORD}</password>
+            <username>jerry</username>
+            <password></password>
             <directoryPermissions>775</directoryPermissions>
             <filePermissions>755</filePermissions>
         </server>
