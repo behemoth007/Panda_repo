@@ -8,9 +8,9 @@ https://maven.apache.org/xsd/settings-1.0.0.xsd">
     
     <servers>
         <server>
-            <id>ftp-repository</id>
-            <username>jerry</username>
-            <password></password>
+            <id>artifactory</id>
+            <username>admin</username>
+            <password>pandapass</password>
             <directoryPermissions>775</directoryPermissions>
             <filePermissions>755</filePermissions>
         </server>
